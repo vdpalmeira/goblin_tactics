@@ -31,3 +31,7 @@ signal action_executed(action_id: String, target_id: int)
 
 # UI Signals
 signal battle_log_message(message: String)
+
+# Cursor/grid Signals
+signal cursor_moved(origin_cell: Vector2i, new_cell: Vector2i)
+signal tile_confirmed(cell: Vector2i)

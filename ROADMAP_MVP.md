@@ -97,13 +97,12 @@ FASE 9: Polish + Save simples         [1 semana]
 #### To-Dos:
 - [X] Criar projeto Godot 4.3+ com configurações básicas
 - [X] Configurar estrutura de diretórios limpa
-- [ ] Configurar Autoloads (EventBus, DataManager, GameState)
-- [ ] Configurar tema dark padrão para UI
+- [X] Configurar Autoloads (EventBus, DataManager, GameState)
 - [ ] Configurar sistema de logging/debug simples
-- [ ] Criar cena principal vazia
-- [ ] Configurar resolução padrão (1920x1080)
-- [ ] Configurar input básico (mouse + teclado)
-- [ ] Setup de version control (gitignore)
+- [X] Criar cena principal vazia
+- [X] Configurar resolução padrão (1920x1080)
+- [X] Configurar input básico (teclado)
+- [X] Setup de version control (gitignore)
 - [ ] Documentar setup de desenvolvimento
 
 #### Critérios de Aceite:
